@@ -83,4 +83,6 @@ What would you like to do?
     else:
       print("Please make a selection from the above options")
 
+    break
+
 myFunction()
